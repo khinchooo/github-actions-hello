@@ -1,0 +1,26 @@
+{
+  "name": "fizz-buzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khinchooo/github-actions-hello.git"
+  },
+  "author": "khinchooo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khinchooo/github-actions-hello/issues"
+  },
+  "homepage": "https://github.com/khinchooo/github-actions-hello#readme",
+  "devDependencies": {
+    "@cybozu/eslint-config": "^17.0.3",
+    "eslint": "^8.23.0",
+    "mocha": "^10.0.0",
+    "prettier": "^2.7.1"
+  }
+}
